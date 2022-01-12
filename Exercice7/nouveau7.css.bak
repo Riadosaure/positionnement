@@ -1,0 +1,63 @@
+.carre
+{
+	height: 150px;
+	width: 150px;
+	border: 2px solid black;
+}
+
+#parent
+{
+	height : 800px;
+	width: 600px;
+	float: left;
+	/*border: 1px solid black;
+	background-color: skyblue;
+	border-top: none;*/	
+}
+
+
+#sq1
+{
+	background-color: lime;
+	float: left;
+}
+
+#sq2
+{
+	background-color: indigo;
+	margin-left: 154px;
+}
+
+#sq3
+{
+	background-color: chocolate;
+	height: 150px;
+	width: 500px;
+	border: 1px solid black;
+	
+}
+
+#sq4
+{
+	background-color: silver;
+	float: left;
+	margin-left: 194px;
+}
+
+#sq5
+{
+	background-color: yellow;
+	float: right;
+	margin-right: 98px;
+}
+
+p
+{
+	font-family: Arial, sans-serif;
+	font-size: 1.8em;
+}
+
+span
+{
+	text-decoration: underline;
+}

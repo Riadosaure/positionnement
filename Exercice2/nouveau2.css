@@ -1,0 +1,72 @@
+.carre
+{
+	border: 2px solid black;
+	padding:20px;
+}
+
+#sq1
+{
+	margin-left: 300px;
+	margin-top: 100px;
+	background-color: lime;
+	width: 400px;
+}
+
+#sq2
+{
+	background-color: indigo;
+	position: relative;
+	left: 100px;
+	opacity: 0.87;
+}
+
+#sq3
+{
+	background-color: orange;
+	position: relative;
+	right: 200px;
+	opacity: 1;
+}
+
+p
+{
+	font-family: Arial, sans-serif;
+	font-size: 1.8em;
+	/*margin: 100px auto 0;*/
+	text-align: center;
+}
+
+#bouton
+{
+	margin: 100px auto 0;	
+}
+
+button
+{
+	background-color: crimson;
+	border: 2px solid black;
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	box-shadow: 0 0 0 0 black;
+	animation: pulsation 1.3s infinite;
+}
+
+@keyframes pulsation
+{
+	to
+	{
+		box-shadow: 0 0 0 18px rgba(0, 0, 0, 0.01);
+	}
+}
+
+a
+{
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+span
+{
+	text-decoration: underline;
+}

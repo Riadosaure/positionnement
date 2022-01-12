@@ -1,0 +1,64 @@
+section
+{
+	border: 2px solid turquoise;
+	margin-left: 179px;
+	/*margin-right: 128px;*/
+	border-right: none;
+	border-bottom: none;
+}
+
+nav
+{
+	float: left;
+	border: 2px solid turquoise;
+	width: 150px;
+	background-color: black;
+	color: white;
+	padding: 30px 10px;
+	border-radius: 20px;
+	position: sticky;
+	top: 0px;
+}
+
+article
+{
+	height: 1450px;
+	background-color: black;
+	border: 2px solid turquoise;
+	margin-left: 179px;
+	margin-right: 128px;
+	border-right: none;
+	border-top: none;
+		
+}
+
+footer
+{
+	background-color: black;
+	color: white;
+	height: 50px;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+p
+{
+	font-family: Arial, sans-serif;
+	font-size: 1.8em;
+	text-align: center;
+	color: white;
+}
+
+body
+{
+	color: white;
+	background-color: black;
+}
+
+a
+{
+	color: white;
+	text-decoration: none;
+}

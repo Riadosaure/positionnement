@@ -1,0 +1,46 @@
+.carre
+{
+	border: 2px solid black;
+	padding:20px;
+}
+
+#sq1
+{
+	width: 400px;
+	margin-left: 300px;
+	margin-top: 100px;
+	background-color: lime;
+}
+
+#sq2
+{
+	background-color: indigo;
+}
+
+#sq3
+{
+	width: 40px;
+	height: 40px;
+	margin: auto;
+	background-color: orange;
+	position: absolute;
+	top: 275px;
+	left: 490px;
+}
+
+p
+{
+	font-family: Arial, sans-serif;
+	font-size: 1.8em;
+	text-align: center;
+}
+
+span
+{
+	text-decoration: underline;
+}
+
+#bouton
+{
+	margin: 165px auto 0;
+}

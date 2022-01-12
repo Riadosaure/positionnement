@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'pokemon_hollownormal';
+    src: url('font5/pokemon_hollow-webfont.woff2') format('woff2'),
+         url('font5/pokemon_hollow-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+p
+{
+	font-family: 'pokemon_hollownormal' ,Comic Sans MS;
+	color: #3462ae;
+	background-color: #ffcc01;
+	font-weight: bold;
+	font-size: 2.9em;
+	text-align: center;
+}
+
+body
+{
+	background-color: #ffcc01;
+}
+
+.parent
+{
+	position: absolute;
+	left: 20px;
+	top: 150px;
+	width: 450px;
+	height: 450px;
+	background-color: skyblue;
+	border: 2px solid teal;
+}
+
+.carre
+{
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	border: 2px solid black;
+}
+
+#sq1
+{
+	background-color: lime;
+	top: 50px;
+	left: 50px;
+}
+
+#sq2
+{
+	background-color: indigo;
+	top: 50px;
+	left: 250px;
+}
+
+#sq3
+{
+	background-color: chocolate;
+	bottom: 50px;
+	left: 50px;
+	/*background-image: url("image5/evoli.png");
+	background-size: cover;
+	background-position: center;*/
+}
+
+#sq4
+{
+	background-color: yellow;
+	bottom: 50px;
+	left: 250px;
+	
+}

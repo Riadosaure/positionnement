@@ -1,0 +1,82 @@
+#parent
+{
+	width: 450px;
+	height: 450px;
+	background-color: skyblue;
+	border: 1px solid black;
+}
+
+.carre
+{
+	position: relative;
+	width: 150px;
+	height: 150px;
+	border: 1px solid black;
+}
+
+#sq1
+{
+	background-color: lime;
+	left: 50px;
+	top: 50px;
+}
+
+#sq2
+{
+	left: 250px;
+	bottom: 102px;
+	background-color: indigo;
+}
+
+#sq3
+{
+	background-color: chocolate;
+	bottom: 50px;
+	left: 50px;	
+}
+
+#sq4
+{
+	background-color: yellow;
+	bottom: 200px;
+	left: 250px;
+}
+
+p
+{
+	font-family: Arial, sans-serif;
+	font-size: 1.8em;
+	width: 450px;
+	text-align: center
+}
+
+mark
+{
+	background-color: gold;
+}
+
+button
+{
+	background-color: crimson;
+	border: 2px solid black;
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	box-shadow: 0 0 0 0 black;
+	animation: pulsation 1.3s infinite;
+}
+
+@keyframes pulsation
+{
+	to
+	{
+		box-shadow: 0 0 0 18px rgba(0, 0, 0, 0.01);
+	}
+}
+
+a
+{
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}

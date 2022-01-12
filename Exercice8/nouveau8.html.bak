@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="nouveau8.css" />
+        <title>Exercice 8 positionnement</title>
+    </head>
+	
+    <body>
+		<p>
+			8. Reproduisez le layout suivant:<br />
+			Utilisation de la propriété sticky sur un menu
+		</p>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Contact</a></li>
+				<li><a href="#">About us</a></li>
+				<li><a href="#">The last of us remastered</a></li>
+				<li><a href="#">The last of us part II</a></li>
+			</ul>
+		</nav>
+		
+		<section>
+		
+			<img src="font8/thelastofus.jpg" alt="photo"/>
+			
+			<!--<p>
+				Duplexque isdem diebus acciderat malum, quod et<br />
+				Theophilum insontem atrox interceperat casus, et Serenianus<br /> 
+				dignus exsecratione cunctorum, innoxius, modo non<br />
+				reclamante publico vigore, discessit.
+			</p>
+			
+			<p>
+				Procedente igitur mox tempore cum adventicium nihil<br /> 
+				inveniretur, relicta ora maritima in Lycaoniam adnexam<br /> 
+				Isauriae se contulerunt ibique densis intersaepientes itinera<br /> 
+				praetenturis provincialium et viatorum opibus pascebantur.
+			</p>
+			
+			<p>
+				Hae duae provinciae bello quondam piratico catervis mixtae<br /> 
+				praedonum a Servilio pro consule missae sub iugum factae<br />
+				sunt vectigales. et hae quidem regiones velut in prominenti<br />
+				terrarum lingua positae ob orbe eoo monte Amano<br />
+				disparantur.		
+			</p>-->
+	
+		</section>
+		
+		<article>
+				<img src="font8/cheval.jpg" alt="photo d'Elie" title="Elie sur un cheval" />
+		</article>
+		
+		<footer>
+			Kreobox 2019
+		</footer>
+			
+    </body>
+</html>

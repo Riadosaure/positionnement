@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="nouveau4.css" />
+        <title>Exercice de positionnement</title>
+    </head>
+
+    <body>
+		
+		<div id="deplacement">
+			<div class="carre" id="sq0">
+				<div class="carre" id="sq1">
+					<div class="carre" id="sq2">
+						<div class="carre" id="sq3">
+							
+						</div>			
+					</div>	
+				</div>
+			</div>
+		</div>
+
+		<p>
+			<a href="file:///C:/Users/riado/OneDrive/Bureau/exercices/Positionnement/Exercice5/nouveau5.html"><button>Go to 5</button></a>
+		</p>
+    </body>
+</html>

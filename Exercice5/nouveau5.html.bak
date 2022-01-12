@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="nouveau5.css" />
+        <title>Exercice de positionnement</title>
+    </head>
+
+    <body>
+		<p>
+			Exercice 5 sur le positionnement en absolu 
+		</p>
+		<div class="parent">
+			<div class="carre" id="sq1">
+				<figure class="evoli">
+			‪		<img src="C:\Users\riado\OneDrive\Bureau\exercices\Positionnement\Exercice5\image5\phyllali.png" alt="logo" title="academy"/> 
+				</figure>		
+			</div>
+			
+			<div class="carre" id="sq2">
+					<figure class="evoli">
+			‪		<img src="C:\Users\riado\OneDrive\Bureau\exercices\Positionnement\Exercice5\image5\mentali.png" alt="logo" title="academy"/> 
+				</figure>		
+			</div>
+			
+			<div class="carre" id="sq3">
+				<figure class="evoli">
+			‪		<img src="C:\Users\riado\OneDrive\Bureau\exercices\Positionnement\Exercice5\image5\evoli.png" alt="logo" title="academy"/> 
+				</figure>		
+			</div>
+			
+			<div class="carre" id="sq4">
+					<figure class="voltali">
+			‪		<img src="C:\Users\riado\OneDrive\Bureau\exercices\Positionnement\Exercice5\image5\voltali.png" alt="logo" title="academy"/> 
+				</figure>		
+			</div>			
+		</div>
+		
+		<p>
+			<button><a href="file:///C:/Users/riado/OneDrive/Bureau/exercices/Positionnement/Exercice5bis/Exercice5bis.html">Voir l'exercice 5 bis</a></button>
+		</p>
+    </body>
+</html>
